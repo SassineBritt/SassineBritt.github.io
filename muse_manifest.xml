@@ -1,0 +1,448 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sassineart.com" resolutions="1x" timestamp="1537272442723">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="485263549" ref="resume:index:portfolio:about:contact"/>
+    <file name="nomq_preview_master_a-master.css" crc="3975517095" ref="resume:index:portfolio:about:contact"/>
+    <file name="master_b-master.css" crc="4095212183" ref="scupture:ink"/>
+    <file name="nomq_preview_master_b-master.css" crc="214808586" ref="scupture:ink"/>
+    <file name="scupture.css" crc="246777245" ref="scupture"/>
+    <file name="nomq_scupture.css" crc="265800706" ref="scupture"/>
+    <file name="resume.css" crc="188169281" ref="resume"/>
+    <file name="nomq_resume.css" crc="4071639703" ref="resume"/>
+    <file name="index.css" crc="4244625372" ref="index"/>
+    <file name="nomq_index.css" crc="3960936451" ref="index"/>
+    <file name="portfolio.css" crc="370234827" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="144848252" ref="portfolio"/>
+    <file name="about.css" crc="4155787789" ref="about"/>
+    <file name="nomq_about.css" crc="4157324109" ref="about"/>
+    <file name="ink.css" crc="4236526097" ref="ink"/>
+    <file name="nomq_ink.css" crc="3915949000" ref="ink"/>
+    <file name="contact.css" crc="314678609" ref="contact"/>
+    <file name="nomq_contact.css" crc="3962215334" ref="contact"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:portfolio:contact:scupture:ink:resume"/>
+    <file name="museutils.js" crc="340535759" ref="index:about:portfolio:contact:scupture:ink:resume"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:portfolio:contact:scupture:ink:resume"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:about:portfolio:contact:scupture:ink:resume"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:about:portfolio:contact:scupture:ink:resume"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:about:portfolio:contact:scupture:ink:resume"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:portfolio:contact:scupture:ink:resume"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:about:portfolio:contact:scupture:ink:resume"/>
+    <file name="require.js" crc="7928878" ref="index:about:portfolio:contact:scupture:ink:resume"/>
+    <file name="webpro.js" crc="4059564322" ref="portfolio:contact:ink"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="portfolio:ink"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="portfolio:ink"/>
+    <file name="touchswipe.js" crc="4075097462" ref="portfolio:ink"/>
+    <file name="form_check.php" crc="4020933626" ref="contact"/>
+    <file name="form_throttle.php" crc="4259590256" ref="contact"/>
+    <file name="form_process.php" crc="37464564" ref="contact"/>
+    <file name="form-u517.php" crc="141091686" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="3919603790" seo="true" ref="index:about:portfolio:contact:scupture:ink:resume">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ink" alt=""/>
+      <caption webpage="scupture" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about:portfolio:contact:scupture:ink:resume"/>
+    <file name="u240-4.png" crc="3792729523" ref="index:about:portfolio:contact:resume"/>
+    <file name="u250-4.png" crc="319391990" ref="index:about:portfolio:contact:resume"/>
+    <file name="u285-4.png" crc="4209945583" ref="index:about:portfolio:contact:resume"/>
+    <file name="arrowmenudown.png" crc="262559161" ref="index:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u305-4.png" crc="132930156" ref="index:about:portfolio:contact:resume"/>
+    <file name="point 3-crop-u397.jpg" crc="346205682" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u618-4.png" crc="393069571" ref="index"/>
+    <file name="u1797-4.png" crc="4062679957" ref="index"/>
+    <file name="u908-4.png" crc="4242096766" ref="index:about:portfolio:contact:resume"/>
+    <file name="iconmonstr-linkedin-4.svg" crc="3972880012" seo="true" ref="index:about:portfolio:contact:scupture:ink:resume">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ink" alt=""/>
+      <caption webpage="ink" alt=""/>
+      <caption webpage="ink" alt=""/>
+      <caption webpage="ink" alt=""/>
+      <caption webpage="ink" alt=""/>
+      <caption webpage="scupture" alt=""/>
+      <caption webpage="scupture" alt=""/>
+      <caption webpage="scupture" alt=""/>
+      <caption webpage="scupture" alt=""/>
+      <caption webpage="scupture" alt=""/>
+    </file>
+    <file name="iconmonstr-linkedin-4_poster_.png" crc="4241331252" ref="index"/>
+    <file name="iconmonstr-instagram-9.svg" crc="4120922629" seo="true" ref="index:about:portfolio:contact:scupture:ink:resume">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ink" alt=""/>
+      <caption webpage="ink" alt=""/>
+      <caption webpage="ink" alt=""/>
+      <caption webpage="ink" alt=""/>
+      <caption webpage="ink" alt=""/>
+      <caption webpage="scupture" alt=""/>
+      <caption webpage="scupture" alt=""/>
+      <caption webpage="scupture" alt=""/>
+      <caption webpage="scupture" alt=""/>
+      <caption webpage="scupture" alt=""/>
+    </file>
+    <file name="iconmonstr-instagram-9_poster_.png" crc="4129937978" ref="index"/>
+    <file name="iconmonstr-facebook-4.svg" crc="4195536043" seo="true" ref="index:about:portfolio:contact:scupture:ink:resume">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ink" alt=""/>
+      <caption webpage="ink" alt=""/>
+      <caption webpage="ink" alt=""/>
+      <caption webpage="ink" alt=""/>
+      <caption webpage="ink" alt=""/>
+      <caption webpage="scupture" alt=""/>
+      <caption webpage="scupture" alt=""/>
+      <caption webpage="scupture" alt=""/>
+      <caption webpage="scupture" alt=""/>
+      <caption webpage="scupture" alt=""/>
+    </file>
+    <file name="iconmonstr-facebook-4_poster_.png" crc="347645300" ref="index"/>
+    <file name="u407-4.png" crc="194640352" ref="index:about:portfolio:contact:resume"/>
+    <file name="copyrightsymbol.png" crc="3983510732" seo="true" ref="index:about:portfolio:contact:scupture:ink:resume">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ink" alt=""/>
+      <caption webpage="ink" alt=""/>
+      <caption webpage="ink" alt=""/>
+      <caption webpage="ink" alt=""/>
+      <caption webpage="ink" alt=""/>
+      <caption webpage="scupture" alt=""/>
+      <caption webpage="scupture" alt=""/>
+      <caption webpage="scupture" alt=""/>
+      <caption webpage="scupture" alt=""/>
+      <caption webpage="scupture" alt=""/>
+    </file>
+    <file name="point 3-crop-u3972.jpg" crc="3761167869" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u618-42.png" crc="4167999020" ref="index"/>
+    <file name="u1797-42.png" crc="502274715" ref="index"/>
+    <file name="point 3-crop-u3973.jpg" crc="490858790" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u618-43.png" crc="4034149586" ref="index"/>
+    <file name="u1797-43.png" crc="4179678080" ref="index"/>
+    <file name="point 3-crop-u3974.jpg" crc="385330146" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u618-44.png" crc="3924199262" ref="index"/>
+    <file name="u1797-44.png" crc="3915353633" ref="index"/>
+    <file name="graven women pin1.jpg" crc="395602914" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u605-4.png" crc="3882952279" ref="about"/>
+    <file name="u410-13.png" crc="20944191" ref="about"/>
+    <file name="graven women pin1218x325.jpg" crc="3792226453" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u605-42.png" crc="3851892929" ref="about"/>
+    <file name="u410-132.png" crc="90620161" ref="about"/>
+    <file name="003-crop-u1632.jpg" crc="504186784" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="001-crop-u1546.jpg" crc="4218276687" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="002-crop-u1657.jpg" crc="4228324810" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="005-crop-u1682.jpg" crc="223016290" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="point 3-crop-u1757.jpg" crc="279799846" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="2017-10-19 102835 copy-crop-u1732.jpg" crc="4109295158" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="004-crop-u1707.jpg" crc="3934858432" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="portfolio:ink"/>
+    <file name="003-crop-u16322.jpg" crc="4277268841" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="001-crop-u15462.jpg" crc="111462884" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="002-crop-u16572.jpg" crc="314101932" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="005-crop-u16822.jpg" crc="400683727" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="point 3-crop-u17572.jpg" crc="401837031" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="2017-10-19 102835 copy-crop-u17322.jpg" crc="305561031" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="004-crop-u17072.jpg" crc="460012584" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="logo-crop-u681.png" crc="3762716634" seo="true" ref="scupture:ink">
+      <caption webpage="ink" alt=""/>
+      <caption webpage="ink" alt=""/>
+      <caption webpage="ink" alt=""/>
+      <caption webpage="ink" alt=""/>
+      <caption webpage="scupture" alt=""/>
+      <caption webpage="scupture" alt=""/>
+      <caption webpage="scupture" alt=""/>
+      <caption webpage="scupture" alt=""/>
+    </file>
+    <file name="the graven women half circle.jpg" crc="4027185768" seo="true" ref="scupture">
+      <caption webpage="scupture" alt=""/>
+      <caption webpage="scupture" alt=""/>
+    </file>
+    <file name="001-crop-u1482.jpg" crc="3898574623" seo="true" ref="scupture">
+      <caption webpage="scupture" alt=""/>
+    </file>
+    <file name="u1862-4.png" crc="353732629" ref="scupture"/>
+    <file name="003540x540.jpg" crc="3908489178" seo="true" ref="scupture">
+      <caption webpage="scupture" alt=""/>
+    </file>
+    <file name="002261x261.jpg" crc="267364763" seo="true" ref="scupture">
+      <caption webpage="scupture" alt=""/>
+    </file>
+    <file name="004262x262.jpg" crc="436340872" seo="true" ref="scupture">
+      <caption webpage="scupture" alt=""/>
+    </file>
+    <file name="005263x263.jpg" crc="288397586" seo="true" ref="scupture">
+      <caption webpage="scupture" alt=""/>
+    </file>
+    <file name="u911-4.png" crc="3772965350" ref="scupture:ink"/>
+    <file name="u920-4.png" crc="194640352" ref="scupture:ink"/>
+    <file name="001-crop-u14822.jpg" crc="3970761705" seo="true" ref="scupture">
+      <caption webpage="scupture" alt=""/>
+    </file>
+    <file name="u1862-42.png" crc="4117600241" ref="scupture"/>
+    <file name="003432x432.jpg" crc="4188820721" seo="true" ref="scupture">
+      <caption webpage="scupture" alt=""/>
+    </file>
+    <file name="002209x209.jpg" crc="4077858240" seo="true" ref="scupture">
+      <caption webpage="scupture" alt=""/>
+    </file>
+    <file name="004210x210.jpg" crc="3885675001" seo="true" ref="scupture">
+      <caption webpage="scupture" alt=""/>
+    </file>
+    <file name="005211x211.jpg" crc="4123554900" seo="true" ref="scupture">
+      <caption webpage="scupture" alt=""/>
+    </file>
+    <file name="the graven women half circle201x201.jpg" crc="371185066" seo="true" ref="scupture">
+      <caption webpage="scupture" alt=""/>
+    </file>
+    <file name="001-crop-u14823.jpg" crc="3772765110" seo="true" ref="scupture">
+      <caption webpage="scupture" alt=""/>
+    </file>
+    <file name="003283x283.jpg" crc="390405023" seo="true" ref="scupture">
+      <caption webpage="scupture" alt=""/>
+    </file>
+    <file name="u1862-43.png" crc="4252515301" ref="scupture"/>
+    <file name="002137x137.jpg" crc="453151320" seo="true" ref="scupture">
+      <caption webpage="scupture" alt=""/>
+    </file>
+    <file name="004137x137.jpg" crc="3942879628" seo="true" ref="scupture">
+      <caption webpage="scupture" alt=""/>
+      <caption webpage="scupture" alt=""/>
+    </file>
+    <file name="005138x138.jpg" crc="527345805" seo="true" ref="scupture">
+      <caption webpage="scupture" alt=""/>
+    </file>
+    <file name="the graven women half circle200x200.jpg" crc="253616134" seo="true" ref="scupture">
+      <caption webpage="scupture" alt=""/>
+    </file>
+    <file name="001-crop-u14824.jpg" crc="4114216315" seo="true" ref="scupture">
+      <caption webpage="scupture" alt=""/>
+    </file>
+    <file name="003282x282.jpg" crc="3918119695" seo="true" ref="scupture">
+      <caption webpage="scupture" alt=""/>
+    </file>
+    <file name="u1862-44.png" crc="3826771618" ref="scupture"/>
+    <file name="002136x136.jpg" crc="453151320" seo="true" ref="scupture">
+      <caption webpage="scupture" alt=""/>
+    </file>
+    <file name="005137x137.jpg" crc="527345805" seo="true" ref="scupture">
+      <caption webpage="scupture" alt=""/>
+    </file>
+    <file name="the graven women half circle120x120.jpg" crc="80076873" seo="true" ref="scupture">
+      <caption webpage="scupture" alt=""/>
+    </file>
+    <file name="001-crop-u14825.jpg" crc="24522626" seo="true" ref="scupture">
+      <caption webpage="scupture" alt=""/>
+    </file>
+    <file name="003169x169.jpg" crc="208673212" seo="true" ref="scupture">
+      <caption webpage="scupture" alt=""/>
+    </file>
+    <file name="u1862-45.png" crc="3924206348" ref="scupture"/>
+    <file name="00282x82.jpg" crc="4145133934" seo="true" ref="scupture">
+      <caption webpage="scupture" alt=""/>
+    </file>
+    <file name="00482x82.jpg" crc="4263276164" seo="true" ref="scupture">
+      <caption webpage="scupture" alt=""/>
+    </file>
+    <file name="00583x83.jpg" crc="506328669" seo="true" ref="scupture">
+      <caption webpage="scupture" alt=""/>
+    </file>
+    <file name="screen shot 2018-06-27 at 14821 pm.jpg" crc="365953600" seo="true" ref="ink">
+      <caption webpage="ink" alt=""/>
+    </file>
+    <file name="u961-5.png" crc="3918626724" ref="ink"/>
+    <file name="screen shot 2018-06-27 at 14853 pm.jpg" crc="202165413" seo="true" ref="ink">
+      <caption webpage="ink" alt=""/>
+    </file>
+    <file name="screen shot 2018-06-27 at 14916 pm.jpg" crc="3859242905" seo="true" ref="ink">
+      <caption webpage="ink" alt=""/>
+    </file>
+    <file name="2017-10-19 102835 copy505x505.jpg" crc="199238097" seo="true" ref="ink">
+      <caption webpage="ink" alt=""/>
+    </file>
+    <file name="2017-10-19 102944 copy.jpg" crc="3762409309" seo="true" ref="ink">
+      <caption webpage="ink" alt=""/>
+      <caption webpage="ink" alt=""/>
+      <caption webpage="ink" alt=""/>
+      <caption webpage="ink" alt=""/>
+      <caption webpage="ink" alt=""/>
+    </file>
+    <file name="point 3502x505.jpg" crc="146958318" seo="true" ref="ink">
+      <caption webpage="ink" alt=""/>
+    </file>
+    <file name="screen shot 2018-06-27 at 14821 pm239x179.jpg" crc="3858822863" seo="true" ref="ink">
+      <caption webpage="ink" alt=""/>
+    </file>
+    <file name="u961-52.png" crc="4110485775" ref="ink"/>
+    <file name="screen shot 2018-06-27 at 14853 pm208x238.jpg" crc="3870433851" seo="true" ref="ink">
+      <caption webpage="ink" alt=""/>
+    </file>
+    <file name="screen shot 2018-06-27 at 14916 pm351x241.jpg" crc="4105157420" seo="true" ref="ink">
+      <caption webpage="ink" alt=""/>
+      <caption webpage="ink" alt=""/>
+    </file>
+    <file name="2017-10-19 102835 copy264x264.jpg" crc="4170000770" seo="true" ref="ink">
+      <caption webpage="ink" alt=""/>
+    </file>
+    <file name="point 3262x264.jpg" crc="4076489831" seo="true" ref="ink">
+      <caption webpage="ink" alt=""/>
+    </file>
+    <file name="screen shot 2018-06-27 at 14821 pm238x179.jpg" crc="3858822863" seo="true" ref="ink">
+      <caption webpage="ink" alt=""/>
+    </file>
+    <file name="u961-53.png" crc="459820931" ref="ink"/>
+    <file name="screen shot 2018-06-27 at 14853 pm207x238.jpg" crc="334910702" seo="true" ref="ink">
+      <caption webpage="ink" alt=""/>
+    </file>
+    <file name="2017-10-19 102835 copy263x263.jpg" crc="4170000770" seo="true" ref="ink">
+      <caption webpage="ink" alt=""/>
+    </file>
+    <file name="point 3261x263.jpg" crc="4076489831" seo="true" ref="ink">
+      <caption webpage="ink" alt=""/>
+    </file>
+    <file name="screen shot 2018-06-27 at 14821 pm144x108.jpg" crc="472543149" seo="true" ref="ink">
+      <caption webpage="ink" alt=""/>
+    </file>
+    <file name="u961-54.png" crc="3791015184" ref="ink"/>
+    <file name="screen shot 2018-06-27 at 14853 pm125x143.jpg" crc="4097779019" seo="true" ref="ink">
+      <caption webpage="ink" alt=""/>
+      <caption webpage="ink" alt=""/>
+    </file>
+    <file name="screen shot 2018-06-27 at 14916 pm211x145.jpg" crc="343027490" seo="true" ref="ink">
+      <caption webpage="ink" alt=""/>
+      <caption webpage="ink" alt=""/>
+    </file>
+    <file name="2017-10-19 102835 copy159x159.jpg" crc="3991883553" seo="true" ref="ink">
+      <caption webpage="ink" alt=""/>
+    </file>
+    <file name="point 3158x159.jpg" crc="4101474076" seo="true" ref="ink">
+      <caption webpage="ink" alt=""/>
+    </file>
+    <file name="screen shot 2018-06-27 at 14821 pm143x108.jpg" crc="184048162" seo="true" ref="ink">
+      <caption webpage="ink" alt=""/>
+    </file>
+    <file name="u961-55.png" crc="3810439008" ref="ink"/>
+    <file name="2017-10-19 102835 copy158x158.jpg" crc="3991883553" seo="true" ref="ink">
+      <caption webpage="ink" alt=""/>
+    </file>
+    <file name="point 3157x158.jpg" crc="4101474076" seo="true" ref="ink">
+      <caption webpage="ink" alt=""/>
+    </file>
+    <file name="britt resume fa18_page_1-crop-u4129.jpg" crc="3992704492" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="britt resume fa18_page_1-crop-u41292.jpg" crc="3910892859" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="279277183" seo="true" mt="1537270390346" redirect="true"/>
+  <file name="about.html" crc="151524531" seo="true" mt="1537270390346" redirect="true"/>
+  <file name="portfolio.html" crc="175523408" seo="true" mt="1537270390346" redirect="true"/>
+  <file name="contact.html" crc="4054891808" seo="true" mt="1537270390346" redirect="true"/>
+  <file name="scupture.html" crc="464010463" seo="true" mt="1537269694710" redirect="true"/>
+  <file name="ink.html" crc="3986741238" seo="true" mt="1537269694710" redirect="true"/>
+  <file name="resume.html" crc="4175683805" seo="true" mt="1537270390346" redirect="true"/>
+</manifest>
